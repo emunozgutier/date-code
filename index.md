@@ -7,4 +7,7 @@ title: Home
 
 This is a simple Jekyll site configured for GitHub Pages.
 
+## Update
+This site has been successfully updated!
+
 Feel free to modify this file and add more Markdown content.
